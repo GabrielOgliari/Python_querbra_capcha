@@ -6,3 +6,4 @@ Projeto foi realizado em Python 3.9.2 por requerer bibliotecas não atualizadas 
 Não há exemplo prático por motivos legais mas pode ser usado o que tem aí em conjunto com um módulo web configurado para a página específica que deve ser feita a automatização.
 Modelo proposto para um padrão de captcha, mas podendo ser ajustado para outros modelos de captcha na mesma linha de letras e números, apenas sendo necessário ajuste na parte de tratamento das imagens.
 
+
